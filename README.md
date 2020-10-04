@@ -17,7 +17,7 @@ Step to install:
 
 Vous pouvez créer un compte en vous inscrivant dans la section d'enregistrement avec votre adresse électronique et votre mot de passe.
 
-## DOCKER SETUP
+## DOCKER configuration file
 
 - Frontend : front web app components public 
 - Backend : node API 
