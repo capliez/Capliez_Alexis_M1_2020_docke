@@ -17,9 +17,8 @@ Step to install:
 
 You can create an account by registering in the registration section.
 
-## SETUP
+## DOCKER SETUP
 
-#### DOCKER SETUP
 ***frontend/Dockerfile***
 ````
 FROM node:10
