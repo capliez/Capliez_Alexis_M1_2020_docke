@@ -19,6 +19,11 @@ You can create an account by registering in the registration section.
 
 ## DOCKER SETUP
 
+- Frontend : front web app components public 
+- Backend : node API 
+- docker-compose.yaml : Allows to build an image and its environment
+- Dockerfile : Allows to build an image but also to execute commands
+
 ***frontend/Dockerfile***
 ````
 FROM node:10
