@@ -1,7 +1,5 @@
 # DOCKER
 
-# API MERN STACK - DOCKER :whale:
-
 ### Prerequisites
 
 What you need to use it:
