@@ -15,7 +15,7 @@ Step to install:
 
 ### Using the application
 
-You can create an account by registering in the registration section.
+Vous pouvez créer un compte en vous inscrivant dans la section d'enregistrement avec votre adresse électronique et votre mot de passe.
 
 ## DOCKER SETUP
 
