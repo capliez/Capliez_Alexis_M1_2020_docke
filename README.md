@@ -1,5 +1,9 @@
 # DOCKER
 
+### Objectives
+
+Deployment of a Rest API with Docker in order to be able to integrate it in a continuous integration and development system
+
 ### Prerequisites
 
 What you need to use it:
