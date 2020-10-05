@@ -13,7 +13,7 @@ Step to install:
   2. ``` docker-compose up --build ```
   3. Go to ``` http://localhost:3000/ ```
 
-### Using the application
+### How to use the application
 
 You can create an account by registering in the registration section with your email address and password.
 
